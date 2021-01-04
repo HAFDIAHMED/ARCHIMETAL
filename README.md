@@ -2,7 +2,7 @@
 
 # ARCHIMETAL CASE STUDY
 Version 2
-A Case Study by:
+# A Case Study by:
 
 Iver Band, Cambia Health Solutions
 
