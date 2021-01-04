@@ -3,7 +3,9 @@
 #ARCHIMETAL CASE STUDY
 Version 2
 A Case Study by:
+
 Iver Band, Cambia Health Solutions
+
 Marija Bjeković, Luxembourg Institute of Science and Technology
 Steve Else, EA Principals
 Rob Kroese, BiZZdesign
