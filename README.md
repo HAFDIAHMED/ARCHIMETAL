@@ -4,7 +4,7 @@
 Version 2
 # A Case Study by:
 
-Iver Band, Cambia Health Solutions
+**Iver Band, Cambia Health Solutions
 
 Marija Bjeković, Luxembourg Institute of Science and Technology
 Steve Else, EA Principals
