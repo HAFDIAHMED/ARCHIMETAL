@@ -10,8 +10,7 @@ Version 2
            
 Steve Else, EA Principals
    
-   
-  
+    
 Rob Kroese, BiZZdesign
     
    
